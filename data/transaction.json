@@ -1,0 +1,40 @@
+{
+    "Transactions": [
+      {
+        "id": 1,
+        "customerId": 1,
+        "amount": 25.50,
+        "description": "Purchase of Item A",
+        "timestamp": "2023-09-09T10:30:00Z"
+      },
+      {
+        "id": 2,
+        "customerId": 2,
+        "amount": 15.75,
+        "description": "Payment for Service B",
+        "timestamp": "2023-09-09T11:15:00Z"
+      },
+      {
+        "id": 3,
+        "customerId": 1,
+        "amount": 10.00,
+        "description": "Top-up of Balance",
+        "timestamp": "2023-09-09T14:45:00Z"
+      },
+      {
+        "id": 4,
+        "customerId": 3,
+        "amount": 50.20,
+        "description": "Purchase of Item C",
+        "timestamp": "2023-09-09T15:30:00Z"
+      },
+      {
+        "id": 5,
+        "customerId": 2,
+        "amount": 30.00,
+        "description": "Payment for Service D",
+        "timestamp": "2023-09-09T16:20:00Z"
+      }
+    ]
+  }
+  
